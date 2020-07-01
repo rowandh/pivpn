@@ -62,7 +62,7 @@ OPENVPN_KEY_URL="https://swupdate.openvpn.net/repos/repo-public.gpg"
 runUnattended=false
 skipSpaceCheck=false
 reconfigure=false
-showUnsupportedNICs=false
+showUnsupportedNICs=true
 
 ######## SCRIPT ########
 
